@@ -1,0 +1,37 @@
+#Base system and kernel
+base
+linux
+linux-firmware
+base-devel
+grub
+efibootmgr
+
+#networking
+networkmanager
+iwd
+
+#window manager and DE
+xorg-server
+i3-wm
+rofi
+
+#Utilities
+neovim
+git
+curl
+wget
+htop
+tmux
+zsh
+
+#Audio
+pipewire
+pipewire-alsa
+pipewire-pulse
+wireplumber
+
+#Media and Docs Viewers
+mpv #Video and audio
+feh #Image viewer
+zathura #Doc viewer
+zathura-pdf-mupdf #PDF plugin Zathura
